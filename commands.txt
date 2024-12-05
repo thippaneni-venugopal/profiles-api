@@ -1,0 +1,4 @@
+django-admin startproject profiles .
+
+python manage.py startapp profiles_api
+
