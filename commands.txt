@@ -1,3 +1,5 @@
+python -m venv venv
+
 django-admin startproject profiles .
 
 python manage.py startapp profiles_api
