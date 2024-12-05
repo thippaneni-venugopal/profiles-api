@@ -20,13 +20,13 @@ This is a Profiles REST API built using Python and Django Rest Framework. It all
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/profiles-rest-api.git
+git clone https://github.com/thippaneni-venugopal/profiles-api.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd profiles-rest-api
+cd profiles-api
 ```
 
 3. Create a virtual environment:
@@ -89,4 +89,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [venugopal@overtimetechie.com](mailto:venugopal@overtimetechie.com).
