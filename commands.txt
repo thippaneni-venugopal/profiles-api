@@ -4,3 +4,7 @@ django-admin startproject profiles .
 
 python manage.py startapp profiles_api
 
+python manage.py runserver 0.0.0.0:8000
+
+
+
